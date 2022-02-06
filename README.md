@@ -4,7 +4,7 @@
 
 2022-01-24
 
-Code for calculate distance using HC-SR04 module
+Code for calculating distance using HC-SR04 module
 
 Used STM32F103RB and STM32F411RE
 TIM2_Channel1 ( 16 bit Timer )
